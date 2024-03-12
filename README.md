@@ -6,7 +6,7 @@
     * Τετάρτη 11:00-13:00 @ Α2
     * Πέμπτη 13:00-15:00 @ Α2
 * Ώρες Γραφείου: Τετάρτη 13:00-15:00 @ Α40
-* Πρόσθεσε το πρόγραμμα του μαθήματος στο [google calendar](https://calendar.google.com/calendar/u/3?cid=Y19mMDU1MTYyMjcyYjI1ZjY5ZThhYjcxODY2OTYzMmNiOGJiYTc5MDJjYTYzYThlNTRiZGFhOGVjYTJkYTA0NDg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+* Πρόσθεσε το πρόγραμμα του μαθήματος στο [google calendar](https://calendar.google.com/calendar/u/3?cid=Y19mMDU1MTYyMjcyYjI1ZjY5ZThhYjcxODY2OTYzMmNiOGJiYTc5MDJjYTYzYThlNTRiZGFhOGVjYTJkYTA0NDg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ## Συμμετοχή
 
@@ -38,7 +38,7 @@
 
 ## Βαθμολογία
 
-* 70% τελικό διαγώνισμα + 30% ασκήσεις
+* 50% τελικό διαγώνισμα + 50% ασκήσεις
 
 ## Διδάσκων / Συνεργάτες Μαθήματος
 
