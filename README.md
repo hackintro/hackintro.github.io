@@ -19,7 +19,7 @@
 
 ## Επικοινωνία
 
-Ερωτήσεις για διαδικαστικά, το μάθημα και τις ασκήσεις αποκλειστικά στο [Piazza](https://piazza.com/uoa.gr/spring2024/1c4cb7f) - απαιτεί di.uoa.gr email. Δεν έχεις ακόμα di.uoa.gr email; Βεβαιώσου ότι συμπλήρωσες την φόρμα στην Συμμετοχή παραπάνω και θα σου στείλουμε πρόσκληση
+Ερωτήσεις για διαδικαστικά, το μάθημα και τις ασκήσεις αποκλειστικά στο [Piazza](https://piazza.com/uoa.gr/spring2024/1c4cb7f) - απαιτεί di.uoa.gr email.
 
 ## Υλικό Μαθήματος
 
@@ -36,9 +36,11 @@
 
 1. [Security Engineering by Ross Anderson](https://github.com/tpn/pdfs/blob/master/Security%20Engineering%20-%20Ross%20Anderson%20(v1).pdf)
 
-
-
 ## Βαθμολογία
 
 * 70% τελικό διαγώνισμα + 30% ασκήσεις
 
+## Διδάσκων / Συνεργάτες Μαθήματος
+
+* Θανάσης Αυγερινός (thanassis)
+* Στέφανος Σταμάτης (stef)
