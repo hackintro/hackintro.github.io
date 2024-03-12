@@ -8,8 +8,6 @@
 * Ώρες Γραφείου: 13:00-15:00 @ Α40
 * Πρόσθεσε το πρόγραμμα του μαθήματος στο [google calendar](https://calendar.google.com/calendar/u/3?cid=Y19mMDU1MTYyMjcyYjI1ZjY5ZThhYjcxODY2OTYzMmNiOGJiYTc5MDJjYTYzYThlNTRiZGFhOGVjYTJkYTA0NDg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-## Ξεκινάμε 13/3 (ελπίζουμε δια ζώσης)
-
 ## Συμμετοχή
 
 Για την ενεργή συμμετοχή σου στο μάθημα, θα χρειαστείς:
@@ -31,6 +29,13 @@
     | --- | --- | --- |
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
+
+* Σύγγραμμα
+
+Δεν υπάρχει επίσημο σύγγραμμα αλλά το ανοιχτά διαθέσιμο PDF του Ross Anderson είναι μια καλή πηγή:
+
+1. [Security Engineering by Ross Anderson](https://github.com/tpn/pdfs/blob/master/Security%20Engineering%20-%20Ross%20Anderson%20(v1).pdf)
+
 
 
 ## Βαθμολογία
