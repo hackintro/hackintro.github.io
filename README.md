@@ -5,7 +5,7 @@
 * Διαλέξεις:
     * Τετάρτη 11:00-13:00 στην αίθουσα Α2
     * Πέμπτη 13:00-15:00 στην αίθουσα Α2
-* Ώρες Γραφείου: 13:00-15:00, γραφείο Α40
+* Ώρες Γραφείου: Τετάρτη 13:00-15:00, γραφείο Α40
 * Πρόσθεσε το πρόγραμμα του μαθήματος στο [google calendar](https://calendar.google.com/calendar/u/3?cid=Y19mMDU1MTYyMjcyYjI1ZjY5ZThhYjcxODY2OTYzMmNiOGJiYTc5MDJjYTYzYThlNTRiZGFhOGVjYTJkYTA0NDg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 
