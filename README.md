@@ -28,7 +28,7 @@
 
     | Ημερομηνία | Περιεχόμενο Μαθήματος | Αρχείο | Reading |
     | --- | --- | --- | --- |
-    | 14/03 | Καλημέρα Κόσμε! | TBR | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
+    | 14/03 | Καλημέρα Κόσμε! | [Slides](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
 
