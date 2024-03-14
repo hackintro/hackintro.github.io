@@ -26,7 +26,7 @@
 
 * Διαλέξεις
 
-    | Ημερομηνία | Περιεχόμενο Μαθήματος | Αρχείο | Reading |
+    | Ημερομηνία | Περιεχόμενο Μαθήματος | Διαφάνειες | Suggested Reading |
     | --- | --- | --- | --- |
     | 14/03 | Καλημέρα Κόσμε! | [Slides](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
 
