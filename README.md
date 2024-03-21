@@ -30,7 +30,7 @@
     | --- | --- | --- | --- |
     | 14/03 | Καλημέρα Κόσμε! | [Slides](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
     | 20/03 | Docker Basics | [Slides](./resources/01-docker-basics.pdf) | [Learning Docker](https://docker-curriculum.com/)|
-    | 21/03 | x86 Basics and Buffer Overflows | [Slides](./resources/02-x86-buffer-overflows.pdf) | [Breaking the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article)|
+    | 21/03 | x86 Basics and Buffer Overflows | [Slides](./resources/02-x86-buffer-overflows.pdf) | [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article)|
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
 
