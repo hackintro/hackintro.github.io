@@ -26,11 +26,12 @@
 
 * Διαλέξεις
 
-    | Ημερομηνία | Περιεχόμενο Μαθήματος | Διαφάνειες | Suggested Reading |
+    | Ημερομηνία | Περιεχόμενο Μαθήματος | Διαφάνειες | Related Source |
     | --- | --- | --- | --- |
     | 14/03 | Καλημέρα Κόσμε! | [Slides](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
     | 20/03 | Docker Basics | [Slides](./resources/01-docker-basics.pdf) | [Learning Docker](https://docker-curriculum.com/)|
     | 21/03 | x86 Basics and Buffer Overflows | [Slides](./resources/02-x86-buffer-overflows.pdf) | [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article)|
+    | 27/03 | Control Flow Hijack Attacks | [Slides](./resources/03-control-flow-hijacks.pdf) | [Intel Dev Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)|
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
 
