@@ -41,6 +41,7 @@
 ## Εργασίες
 
 1. [Εργασία #0](https://classroom.github.com/a/db-uWx2-). Προθεσμία: Τετάρτη 27 Μαρτίου, 23:59.
+2. [Εργασία #1](https://classroom.github.com/a/qAnqU1mN). Προθεσμία: Τετάρτη 24 Απριλίου, 10:59.
 
 ## Bonus
 
