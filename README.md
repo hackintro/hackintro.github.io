@@ -35,6 +35,7 @@
     | 28/03 | Format String Attacks | [Slides](./resources/04-format-string-attacks.pdf) | [Exploiting Format Strings](https://cs155.stanford.edu/papers/formatstring-1.2.pdf)|
     | 03/04 | CVEs and Review | [Slides](./resources/05-cves-and-review.pdf) | [CVEs](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures)|
     | 04/04 | Mitigations | [Slides](./resources/06-mitigations.pdf) | [Canaries](https://lettieri.iet.unipi.it/hacking/canaries.pdf) and [ASLR Design](https://pax.grsecurity.net/docs/aslr.txt) |
+    | 04/10 & 04/11 | Return-Oriented Programming | [Slides](./resources/07-08-return-oriented-programming.pdf) | [Return-into-libc without Function Calls](https://hovav.net/ucsd/dist/geometry.pdf) |
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
 
