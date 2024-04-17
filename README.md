@@ -36,6 +36,8 @@
     | 03/04 | CVEs and Review | [Slides](./resources/05-cves-and-review.pdf) | [CVEs](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures)|
     | 04/04 | Mitigations | [Slides](./resources/06-mitigations.pdf) | [Canaries](https://lettieri.iet.unipi.it/hacking/canaries.pdf) and [ASLR Design](https://pax.grsecurity.net/docs/aslr.txt) |
     | 04/10 & 04/11 | Return-Oriented Programming | [Slides](./resources/07-08-return-oriented-programming.pdf) | [Return-into-libc without Function Calls](https://hovav.net/ucsd/dist/geometry.pdf) |
+    | 04/17 | Security Fundamentals | [Slides](./resources/09-security-fundamentals.pdf) | [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) |
+
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
 
