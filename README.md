@@ -40,6 +40,7 @@
     | 04/18 | Access Control | [Slides](./resources/10-access-control.pdf) | [Setuid Demystified](https://people.eecs.berkeley.edu/~daw/papers/setuid-usenix02.pdf) |
     | 04/24 | Intro to Cryptography | [Slides](./resources/11-intro-to-cryptography.pdf) | [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/about/chap1.pdf) |
     | 04/25 | Randomness | [Slides](./resources/12-randomness.pdf) | [Graduate Course in Applied Cryptography (2, 3, B)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+    | 05/15 | Pseudorandom Functions | [Slides](./resources/13-pseudorandom-functions.pdf) | [Graduate Course in Applied Cryptography (2.2, 3)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
@@ -48,7 +49,7 @@
 
 1. [Εργασία #0](https://classroom.github.com/a/db-uWx2-). Προθεσμία: Τετάρτη 27 Μαρτίου, 23:59.
 2. [Εργασία #1](https://classroom.github.com/a/qAnqU1mN). Προθεσμία: Τετάρτη 24 Απριλίου, 10:59.
-3. [Εργασία #2](https://classroom.github.com/a/jjRA4KHn). Προθεσμία: Τετάρτη 22 Μαΐου, 23:59.
+3. [Εργασία #2](https://classroom.github.com/a/jjRA4KHn). Προθεσμία: Τετάρτη 30 Μαΐου, 23:59.
 
 ## Bonus
 
