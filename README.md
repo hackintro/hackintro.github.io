@@ -42,6 +42,7 @@
     | 04/25 | Randomness | [Slides](./resources/12-randomness.pdf) | [Graduate Course in Applied Cryptography (2, 3, B)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
     | 05/15 | Pseudorandom Functions | [Slides](./resources/13-pseudorandom-functions.pdf) | [Graduate Course in Applied Cryptography (2.2, 3)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
     | 05/16 | Encryption Modes | [Slides](./resources/14-encryption-modes.pdf) | [Graduate Course in Applied Cryptography (4)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) [Handbook of Applied Cryptography (7)](https://cacr.uwaterloo.ca/hac/about/chap7.pdf) |
+    | 05/24 | Integrity | [Slides](./resources/15-integrity.pdf) | [Graduate Course in Applied Cryptography (6)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) [Hash Functions Basics](https://web.cs.ucdavis.edu/~rogaway/papers/relates.pdf) |
 
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
