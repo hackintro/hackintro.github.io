@@ -39,12 +39,12 @@
     | 04/17 | Security Fundamentals | [Slides](./resources/09-security-fundamentals.pdf) | [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) |
     | 04/18 | Access Control | [Slides](./resources/10-access-control.pdf) | [Setuid Demystified](https://people.eecs.berkeley.edu/~daw/papers/setuid-usenix02.pdf) |
     | 04/24 | Intro to Cryptography | [Slides](./resources/11-intro-to-cryptography.pdf) | [Handbook of Applied Cryptography (1)](https://cacr.uwaterloo.ca/hac/about/chap1.pdf) |
-    | 04/25 | Randomness | [Slides](./resources/12-randomness.pdf) | [Graduate Course in Applied Cryptography (2, 3, B)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
-    | 05/15 | Pseudorandom Functions | [Slides](./resources/13-pseudorandom-functions.pdf) | [Graduate Course in Applied Cryptography (2.2, 3)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
-    | 05/16 | Encryption Modes | [Slides](./resources/14-encryption-modes.pdf) | [Graduate Course in Applied Cryptography (4)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) [Handbook of Applied Cryptography (7)](https://cacr.uwaterloo.ca/hac/about/chap7.pdf) |
-    | 05/24 | Integrity | [Slides](./resources/15-integrity.pdf) | [Graduate Course in Applied Cryptography (6)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) [Hash Functions Basics](https://web.cs.ucdavis.edu/~rogaway/papers/relates.pdf) |
-    | 05/29 | Hash Functions | [Slides](./resources/16-hash-functions.pdf) | [Graduate Course in Applied Cryptography (8)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
-    | 05/30 | Authenticated Encryption and Asymmetric Cryptography | [Slides](./resources/17-authenc-and-asymmetric-crypto.pdf) | [Graduate Course in Applied Cryptography (9-12)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+    | 04/25 | Randomness | [Slides](./resources/12-randomness.pdf) | [Boneh and Shoup (2, 3, B)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+    | 05/15 | Pseudorandom Functions | [Slides](./resources/13-pseudorandom-functions.pdf) | [Boneh and Shoup (2.2, 3)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+    | 05/16 | Encryption Modes | [Slides](./resources/14-encryption-modes.pdf) | [Boneh and Shoup (4)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) [Handbook of Applied Cryptography (7)](https://cacr.uwaterloo.ca/hac/about/chap7.pdf) |
+    | 05/24 | Integrity | [Slides](./resources/15-integrity.pdf) | [Boneh and Shoup (6)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) [Hash Functions Basics](https://web.cs.ucdavis.edu/~rogaway/papers/relates.pdf) |
+    | 05/29 | Hash Functions | [Slides](./resources/16-hash-functions.pdf) | [Boneh and Shoup (8)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+    | 05/30 | Authenticated Encryption and Asymmetric Cryptography | [Slides](./resources/17-authenc-and-asymmetric-crypto.pdf) | [Boneh and Shoup (9-12)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 
 
 
