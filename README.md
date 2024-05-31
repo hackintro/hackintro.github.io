@@ -52,6 +52,7 @@
 1. [Εργασία #0](https://classroom.github.com/a/db-uWx2-). Προθεσμία: Τετάρτη 27 Μαρτίου, 23:59.
 2. [Εργασία #1](https://classroom.github.com/a/qAnqU1mN). Προθεσμία: Τετάρτη 24 Απριλίου, 10:59.
 3. [Εργασία #2](https://classroom.github.com/a/jjRA4KHn). Προθεσμία: Τετάρτη 30 Μαΐου, 23:59.
+4. [Εργασία #3](https://classroom.github.com/a/gkk-rpcd). Προθεσμία: Σάββατο 15 Ιουνίου, 23:59.
 
 ## Bonus
 
