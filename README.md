@@ -46,6 +46,8 @@
     | 05/29 | Hash Functions | [Slides](./resources/16-hash-functions.pdf) | [Boneh and Shoup (8)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
     | 05/30 | Authenticated Encryption and Asymmetric Cryptography | [Slides](./resources/17-authenc-and-asymmetric-crypto.pdf) | [Boneh and Shoup (9-12)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
     | 06/05 & 06/06 | Web Security | [Slides](./resources/18-19-web-security.pdf) | [PicoCTF Training](https://picoctf.org/index.html#picogym) [React XSS](https://pragmaticwebsecurity.com/files/cheatsheets/reactxss.pdf)  |
+    | 06/12 | Network Security | [Slides](./resources/20-network-security.pdf) | [Security Problems in the TCP/IP Suite](https://www.cs.columbia.edu/~smb/papers/ipext.pdf)  [Sequel 15 years later](https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf) [Taxonomy of DDoS Attacks](https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/DDoSmirkovic.pdf) [Beware of BGP Attacks](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/nordstrom04.pdf) |
+    | 06/13 | Privacy, Policy and More | [Slides](./resources/21-privacy-policy-and-more.pdf) | [Base-rate Fallacy](https://dl.acm.org/doi/pdf/10.1145/357830.357849)  |
 
 
 
