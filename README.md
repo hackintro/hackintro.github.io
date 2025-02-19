@@ -43,6 +43,9 @@ TBD
 ## Συγγράμματα
 
 1. [Security Engineering by Ross Anderson](https://github.com/tpn/pdfs/blob/master/Security%20Engineering%20-%20Ross%20Anderson%20(v1).pdf)
+1. Ασφάλεια υπολογιστών: αρχές και πρακτικές, Stallings et al [[Link]](https://service.eudoxus.gr/search/#a/id:50656354/0)
+1. Ασφάλεια Πληροφοριών & Συστημάτων στον Κυβερνοχώρο, Κάτσικας et al. [[Link]](https://service.eudoxus.gr/search/#a/id:50656354/0)
+1. Ασφάλεια Πληροφοριακών Συστημάτων, Pfleeger et al. [[Link]](https://service.eudoxus.gr/search/#a/id:50656354/0)
 
 ## Βαθμολογία
 
