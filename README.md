@@ -27,7 +27,7 @@
 
     | Ημερομηνία | Περιεχόμενο Μαθήματος | Διαφάνειες | Related Source |
     | --- | --- | --- | --- |
-    | 19/02 | Καλημέρα Κόσμε! | | |
+    | 19/02 | Καλημέρα Κόσμε! | [Slides](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
 
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
