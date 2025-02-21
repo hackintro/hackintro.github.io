@@ -28,7 +28,7 @@
     | Ημερομηνία | Περιεχόμενο Μαθήματος | Διαφάνειες | Related Source |
     | --- | --- | --- | --- |
     | 19/02 | Hello World! | [Slides](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
-    | 20/02 | Security Fundamentals | [Slides](./resources/09-security-fundamentals.pdf) | [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) [Book Excerpt](https://beerkay.github.io/cs529/content/papers/saltzerschroeder.pdf) |
+    | 20/02 | Security Fundamentals | [Slides](./resources/01-security-fundamentals.pdf) | [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) [Book Excerpt](https://beerkay.github.io/cs529/content/papers/saltzerschroeder.pdf) |
 
 
 
