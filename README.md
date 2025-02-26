@@ -36,7 +36,7 @@
 
 ## Εργασίες
 
-TBD
+* [Homework 0](https://classroom.github.com/a/O3y_pTl_) Προθεσμία: 12 Μαρτίου 23:59
 
 ## Bonus
 
