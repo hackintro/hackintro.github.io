@@ -35,9 +35,9 @@
 
 * [Προηγούμενα έτη](https://ys13.chatzi.org/)
 
-## Εργασίες
+## Homework
 
-* [Homework 0](https://classroom.github.com/a/O3y_pTl_) Προθεσμία: 12 Μαρτίου 23:59
+* [Homework 0](https://classroom.github.com/a/O3y_pTl_) Due: March 19, 23:59
 
 ## Bonus
 
