@@ -29,7 +29,8 @@
     | --- | --- | --- | --- |
     | 19/02 | Hello World! | [Slides](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
     | 20/02 | Security Fundamentals | [Slides](./resources/01-security-fundamentals.pdf) | [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) [Book Excerpt](https://beerkay.github.io/cs529/content/papers/saltzerschroeder.pdf) |
-    | 26/02 | x86 Basics and Buffer Overflows | [Slides](./resources/02-x86-buffer-overflows.pdf) | [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article)|
+    | 26/02 & 05/03 | x86 Basics and Buffer Overflows | [Slides](./resources/02-x86-buffer-overflows.pdf) | [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article)|
+    | 06/03 | Control Flow Hijack Attacks | [Slides](./resources/04-control-flow-hijacks.pdf) | [Intel Dev Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)|
 
 
 
