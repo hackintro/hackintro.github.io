@@ -31,6 +31,7 @@
     | 20/02 | Security Fundamentals | [Slides](./resources/01-security-fundamentals.pdf) | [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) [Book Excerpt](https://beerkay.github.io/cs529/content/papers/saltzerschroeder.pdf) |
     | 26/02 & 05/03 | x86 Basics and Buffer Overflows | [Slides](./resources/02-x86-buffer-overflows.pdf) | [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article)|
     | 06/03 | Control Flow Hijack Attacks | [Slides](./resources/04-control-flow-hijacks.pdf) | [Intel Dev Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)|
+    | 12/03 | Format String Attacks | [Slides](./resources/05-format-string-attacks.pdf) | [Exploiting Format Strings](https://cs155.stanford.edu/papers/formatstring-1.2.pdf)|
 
 
 
