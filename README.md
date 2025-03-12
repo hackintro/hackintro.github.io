@@ -43,7 +43,7 @@
 
 ## Bonus
 
-* [Bonus 0](ethan42/camelot:latest) Due: March 19, 23:59
+* [Bonus 0](https://classroom.github.com/a/Gmlu2CDI) Due: March 19, 23:59
 
 ## Συγγράμματα
 
