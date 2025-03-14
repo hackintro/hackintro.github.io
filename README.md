@@ -1,5 +1,8 @@
 #  Εισαγωγή στην Ασφάλεια
 
+* TOC
+{:toc}
+
 ## Πρόγραμμα
 
 * Διαλέξεις:
@@ -21,21 +24,17 @@
 
 Ερωτήσεις για διαδικαστικά, το μάθημα και τις ασκήσεις αποκλειστικά στο [Piazza](https://piazza.com/uoa.gr/spring2025/1c4cb7f) - απαιτεί di.uoa.gr email.
 
-## Υλικό Μαθήματος
+## Lectures
 
-* Διαλέξεις
-
-    | Ημερομηνία | Περιεχόμενο Μαθήματος | Διαφάνειες | Related Source |
+    | Date | Title | Slides | Related Source |
     | --- | --- | --- | --- |
-    | 19/02 | Hello World! | [Slides](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
-    | 20/02 | Security Fundamentals | [Slides](./resources/01-security-fundamentals.pdf) | [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) [Book Excerpt](https://beerkay.github.io/cs529/content/papers/saltzerschroeder.pdf) |
-    | 26/02 & 05/03 | x86 Basics and Buffer Overflows | [Slides](./resources/02-x86-buffer-overflows.pdf) | [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article) [System V ABI](https://refspecs.linuxbase.org/elf/x86_64-abi-0.99.pdf) |
-    | 06/03 | Control Flow Hijack Attacks | [Slides](./resources/04-control-flow-hijacks.pdf) | [Intel Dev Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) |
-    | 12/03 | Format String Attacks | [Slides](./resources/05-format-string-attacks.pdf) | [Exploiting Format Strings](https://cs155.stanford.edu/papers/formatstring-1.2.pdf) |
+    | 19/02 | Hello World! | [PDF](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
+    | 20/02 | Security Fundamentals | [PDF](./resources/01-security-fundamentals.pdf) | [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) [Book Excerpt](https://beerkay.github.io/cs529/content/papers/saltzerschroeder.pdf) |
+    | 26/02 & 05/03 | x86 Basics and Buffer Overflows | [PDF](./resources/02-x86-buffer-overflows.pdf) | [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article) [System V ABI](https://refspecs.linuxbase.org/elf/x86_64-abi-0.99.pdf) |
+    | 06/03 | Control Flow Hijack Attacks | [PDF](./resources/04-control-flow-hijacks.pdf) | [Intel Dev Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) |
+    | 12/03 | Format String Attacks | [PDF](./resources/05-format-string-attacks.pdf) | [Exploiting Format Strings](https://cs155.stanford.edu/papers/formatstring-1.2.pdf) |
 
-
-
-* [Προηγούμενα έτη](https://ys13.chatzi.org/)
+* [Past Years](https://ys13.chatzi.org/)
 
 ## Homework
 
@@ -45,17 +44,17 @@
 
 * [Bonus 0](https://classroom.github.com/a/Gmlu2CDI) Due: March 19, 23:59
 
+## Grading
+
+* 60% Exam + 40% Homework + Bonus
+* Exam minimum: a grade of 40%+ in the final exam is required to pass the class
+
 ## Συγγράμματα
 
 1. [Security Engineering by Ross Anderson](https://github.com/tpn/pdfs/blob/master/Security%20Engineering%20-%20Ross%20Anderson%20(v1).pdf)
 1. Ασφάλεια υπολογιστών: αρχές και πρακτικές, Stallings et al. [[Link]](https://service.eudoxus.gr/search/#a/id:50656354/0)
 1. Ασφάλεια Πληροφοριών & Συστημάτων στον Κυβερνοχώρο, Κάτσικας et al. [[Link]](https://service.eudoxus.gr/search/#a/id:50656354/0)
 1. Ασφάλεια Πληροφοριακών Συστημάτων, Pfleeger et al. [[Link]](https://service.eudoxus.gr/search/#a/id:50656354/0)
-
-## Βαθμολογία
-
-* 60% Διαγώνισμα + 40% Ασκήσεις + Bonus
-* Απαιτείται βαθμός άνω του 40% στο τελικό διαγώνισμα για να περαστεί το μάθημα
 
 ## Διδάσκων / Συνεργάτες Μαθήματος
 
