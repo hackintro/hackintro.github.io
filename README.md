@@ -67,4 +67,7 @@
 
 ## Προπτυχιακοί Συνεργάτες
 
-TBD
+* mordekaiser17
+* Kennen
+* 0x5f
+* deathwish24
