@@ -31,7 +31,7 @@
 | 19/02 | Hello World! | [PDF](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)|
 | 20/02 | Security Fundamentals | [PDF](./resources/01-security-fundamentals.pdf) | (1) [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) (2) [Book Excerpt](https://beerkay.github.io/cs529/content/papers/saltzerschroeder.pdf) |
 | 26/02 & 05/03 | x86 Basics and Buffer Overflows | [PDF](./resources/02-x86-buffer-overflows.pdf) | (1) [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article) (2) [System V ABI](https://refspecs.linuxbase.org/elf/x86_64-abi-0.99.pdf) |
-| 06/03 | Control Flow Hijack Attacks | [PDF](./resources/04-control-flow-hijacks.pdf) | [Intel Dev Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) |
+| 06/03 | Control Flow Hijack Attacks | [PDF](./resources/04-control-flow-hijacks.pdf) | (1) [Intel Dev Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) (2) [SoK: Eternal War in Memory](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf) |
 | 12/03 | Format String Attacks | [PDF](./resources/05-format-string-attacks.pdf) | [Exploiting Format Strings](https://cs155.stanford.edu/papers/formatstring-1.2.pdf) |
 
 * [Past Years](https://ys13.chatzi.org/)
