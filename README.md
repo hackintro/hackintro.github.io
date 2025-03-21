@@ -34,6 +34,7 @@
 | 06/03 | Control Flow Hijack Attacks | [PDF](./resources/04-control-flow-hijacks.pdf) | (1) [Intel Dev Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) (2) [SoK: Eternal War in Memory](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf) |
 | 12/03 | Format String Attacks | [PDF](./resources/05-format-string-attacks.pdf) | [Exploiting Format Strings](https://cs155.stanford.edu/papers/formatstring-1.2.pdf) |
 | 19/03 | Application Security and Review | [PDF](./resources/06-appsec-and-review.pdf) | (1) [OSS Security](https://www.linuxfoundation.org/hubfs/LF%20Research/MaintainerSecurityBPs_011724.pdf?hsLang=en) (2) [Accelerate](https://github.com/LuckyDudeThakur/EBooks/blob/master/Accelerate%20-%20Building%20and%20Scaling%20High%20Performing%20Technology%20Organisations%20-%20Nicole%20Fergrson.pdf) |
+| 20/03 | Mitigations | [PDF](./resources/07-mitigations.pdf) | (1) [Canaries](https://lettieri.iet.unipi.it/hacking/canaries.pdf) (2) [ASLR Design](https://pax.grsecurity.net/docs/aslr.txt) |
 
 * [Past Years](https://ys13.chatzi.org/)
 
