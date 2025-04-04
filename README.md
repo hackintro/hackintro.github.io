@@ -37,6 +37,7 @@
 | 20/03 | Mitigations | [PDF](./resources/07-mitigations.pdf) | (1) [Canaries](https://lettieri.iet.unipi.it/hacking/canaries.pdf) (2) [ASLR Design](https://pax.grsecurity.net/docs/aslr.txt) |
 | 26/03 & 27/03 | Return-Oriented Programming | [PDF](./resources/08-09-return-oriented-programming.pdf) | [Return-into-libc without Function Calls](https://hovav.net/ucsd/dist/geometry.pdf) |
 | 02/04 | Access Control | [PDF](./resources/10-access-control.pdf) | (1) [The Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) (2) [Setuid Demystified](https://people.eecs.berkeley.edu/~daw/papers/setuid-usenix02.pdf) |
+| 03/04 | Control-Flow Integrity | [PDF](./resources/11-control-flow-integrity.pdf) | [Control-Flow Integrity](https://www.cs.columbia.edu/~suman/secure_sw_devel/p340-abadi.pdf) |
 
 * [Past Years](https://ys13.chatzi.org/)
 
