@@ -38,6 +38,7 @@
 | 26/03 & 27/03 | Return-Oriented Programming | [PDF](./resources/08-09-return-oriented-programming.pdf) | [Return-into-libc without Function Calls](https://hovav.net/ucsd/dist/geometry.pdf) |
 | 02/04 | Access Control | [PDF](./resources/10-access-control.pdf) | (1) [The Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) (2) [Setuid Demystified](https://people.eecs.berkeley.edu/~daw/papers/setuid-usenix02.pdf) |
 | 03/04 | Control-Flow Integrity | [PDF](./resources/11-control-flow-integrity.pdf) | [Control-Flow Integrity](https://www.cs.columbia.edu/~suman/secure_sw_devel/p340-abadi.pdf) |
+| 10/04 | Intro to Cryptography | [PDF](./resources/12-intro-to-cryptography.pdf) | [Handbook of Applied Cryptography (1)](https://cacr.uwaterloo.ca/hac/about/chap1.pdf) |
 
 * [Past Years](https://ys13.chatzi.org/)
 
