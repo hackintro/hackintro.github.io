@@ -40,6 +40,7 @@
 | 03/04 | Control-Flow Integrity | [PDF](./resources/11-control-flow-integrity.pdf) | [Control-Flow Integrity](https://www.cs.columbia.edu/~suman/secure_sw_devel/p340-abadi.pdf) |
 | 10/04 | Intro to Cryptography | [PDF](./resources/12-intro-to-cryptography.pdf) | [Handbook of Applied Cryptography (1)](https://cacr.uwaterloo.ca/hac/about/chap1.pdf) |
 | 04/30 | Randomness | [PDF](./resources/13-randomness.pdf) | [Boneh and Shoup (2, 3, B)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+| 05/02 | Pseudorandom Functions | [PDF](./resources/14-pseudorandom-functions.pdf) | [Boneh and Shoup (2.2, 3)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 
 * [Past Years](https://ys13.chatzi.org/)
 
