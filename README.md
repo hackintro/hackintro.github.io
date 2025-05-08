@@ -51,6 +51,8 @@
 | --- | --- |
 | [Homework 0](https://classroom.github.com/a/O3y_pTl_) | March 19, 23:59 |
 | [Homework 1](https://classroom.github.com/a/BxlqbyOM) | April 30, 23:59 |
+| [Homework 2](https://classroom.github.com/a/Xxe4PJxm) | June 4, 23:59 |
+
 
 ## Bonus
 
