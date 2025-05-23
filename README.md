@@ -45,6 +45,7 @@
 | 08/05 | Integrity | [PDF](./resources/16-integrity.pdf) | (1) [Boneh and Shoup (6)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) (2) [Hash Functions Basics](https://web.cs.ucdavis.edu/~rogaway/papers/relates.pdf) |
 | 12/05 | Hash Functions | [PDF](./resources/17-hash-functions.pdf) | [Boneh and Shoup (8)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 | 16/05 | Authenticated Encryption and Asymmetric Cryptography | [PDF](./resources/17-authenc-and-asymmetric-crypto.pdf) | [Boneh and Shoup (9-12)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+| 21/05 & 22/05 | Web Security | [PDF](./resources/19-20-web-security.pdf) | [PicoCTF Training](https://picoctf.org/index.html#picogym) [React XSS](https://pragmaticwebsecurity.com/files/cheatsheets/reactxss.pdf)  |
 
 * [Past Years](https://ys13.chatzi.org/)
 
