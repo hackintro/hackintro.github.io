@@ -46,6 +46,7 @@
 | 12/05 | Hash Functions | [PDF](./resources/17-hash-functions.pdf) | [Boneh and Shoup (8)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 | 16/05 | Authenticated Encryption and Asymmetric Cryptography | [PDF](./resources/17-authenc-and-asymmetric-crypto.pdf) | [Boneh and Shoup (9-12)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 | 21/05 & 22/05 | Web Security | [PDF](./resources/19-20-web-security.pdf) | [PicoCTF Training](https://picoctf.org/index.html#picogym) [React XSS](https://pragmaticwebsecurity.com/files/cheatsheets/reactxss.pdf)  |
+| 28/05 | Network Security | [PDF](./resources/21-network-security.pdf) | (1) [Security Problems in the TCP/IP Suite](https://www.cs.columbia.edu/~smb/papers/ipext.pdf) (2) [Sequel 15 years later](https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf) (3) [Taxonomy of DDoS Attacks](https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/DDoSmirkovic.pdf) (4) [Beware of BGP Attacks](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/nordstrom04.pdf) |
 
 * [Past Years](https://ys13.chatzi.org/)
 
