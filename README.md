@@ -28,7 +28,7 @@
 
 | Date | Title | Slides | Related Sources |
 | --- | --- | --- | --- |
-| 18/02 | Hello World! | | |
+| 18/02 | Hello World! |[PDF](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf) |
 
 
 * [Past Years](https://ys13.chatzi.org/)
