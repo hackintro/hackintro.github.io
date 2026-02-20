@@ -70,6 +70,6 @@
 
 * mordekaiser17
 * 0x5f
-* manos5434
+* manos
 * threadexio
 * deathwish24
