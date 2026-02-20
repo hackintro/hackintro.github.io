@@ -1,5 +1,6 @@
 #  Εισαγωγή στην Ασφάλεια
 
+## Πίνακας Περιεχομένων {: .no_toc}
 * TOC
 {:toc}
 
@@ -68,6 +69,7 @@
 ## Προπτυχιακοί Συνεργάτες
 
 * mordekaiser17
-* Kennen
 * 0x5f
+* manos5434
+* threadexio
 * deathwish24
