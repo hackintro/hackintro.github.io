@@ -29,6 +29,7 @@
 | Date | Title | Slides | Related Sources |
 | --- | --- | --- | --- |
 | 18/02 | Hello World! |[PDF](./resources/00-introduction.pdf) | [Reflections on Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf) |
+| 19/02 | Security Fundamentals | [PDF](./resources/01-security-fundamentals.pdf) | (1) [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) (2) [Book Excerpt](https://beerkay.github.io/cs529/content/papers/saltzerschroeder.pdf) |
 
 
 * [Past Years](https://ys13.chatzi.org/)
