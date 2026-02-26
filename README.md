@@ -61,6 +61,12 @@
 1. Ασφάλεια Πληροφοριών & Συστημάτων στον Κυβερνοχώρο, Κάτσικας et al. [[Link]](https://www.politeianet.gr/el/products/9789605780647-neon-texnologion-ekdoseis-asfaleia-plhroforion-kai-susthmaton-ston-kubernoxoro)
 1. Ασφάλεια Πληροφοριακών Συστημάτων, Pfleeger et al. [[Link]](https://www.biblionet.gr/asfaleia-pliroforiakon-sustimaton-460258)
 
+## Operating Systems Requirement (FAQ)
+
+Q: I still don't have a passing grade in Operating Systems (OS), can I follow / get a grade for this class?
+
+A: Yes, if you manage to pass I'll keep your grade for *up to two years* (not longer). However, that is only true if I'm still the person teaching this class - another professor may reject your request and you may have to redo the class in that case. If you accept this risk (two years limit + I need to continue teaching hackintro), then feel free to participate in the class, do the homeworks and take the exam.
+
 ## Διδάσκων / Συνεργάτες Μαθήματος
 
 * Θανάσης Αυγερινός (thanassis)
