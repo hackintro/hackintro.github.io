@@ -33,8 +33,7 @@
 | 19/02 | Security Fundamentals | [PDF](./resources/01-security-fundamentals.pdf) | (1) [Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf)<br>(2) [Book Excerpt](https://beerkay.github.io/cs529/content/papers/saltzerschroeder.pdf) |
 | 25/02 | x86 Basics and Buffer Overflows | [PDF](./resources/02-x86-buffer-overflows.pdf) | (1) [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html#article)<br>(2) [System V ABI](https://refspecs.linuxbase.org/elf/x86_64-abi-0.99.pdf) |
 | 04/03 & 05/03 | Control Flow Hijack Attacks | [PDF](./resources/03-control-flow-hijacks.pdf) | (1) [Intel Dev Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)<br>(2) [SoK: Eternal War in Memory](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf) |
-| 11/03 | Format String Attacks | [PDF](./resources/05-format-string-attacks.pdf) | [Exploiting Format Strings](https://c
-s155.stanford.edu/papers/formatstring-1.2.pdf) |
+| 11/03 | Format String Attacks | [PDF](./resources/05-format-string-attacks.pdf) | [Exploiting Format Strings](https://cs155.stanford.edu/papers/formatstring-1.2.pdf) |
 | 12/03 | Application Security and Review | [PDF](./resources/06-appsec-and-review.pdf) | (1) [OSS Security](https://www.linuxfoundation.org/hubfs/LF%20Research/MaintainerSecurityBPs_011724.pdf?hsLang=en) (2) [Accelerate](https://github.com/LuckyDudeThakur/EBooks/blob/master/Accelerate%20-%20Building%20and%20Scaling%20High%20Performing%20Technology%20Organisations%20-%20Nicole%20Fergrson.pdf) |
 
 
