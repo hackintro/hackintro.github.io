@@ -36,6 +36,7 @@
 | 11/03 | Format String Attacks | [PDF](./resources/05-format-string-attacks.pdf) | [Exploiting Format Strings](https://cs155.stanford.edu/papers/formatstring-1.2.pdf) |
 | 12/03 | Application Security and Review | [PDF](./resources/06-appsec-and-review.pdf) | (1) [OSS Security](https://www.linuxfoundation.org/hubfs/LF%20Research/MaintainerSecurityBPs_011724.pdf?hsLang=en) (2) [Accelerate](https://github.com/LuckyDudeThakur/EBooks/blob/master/Accelerate%20-%20Building%20and%20Scaling%20High%20Performing%20Technology%20Organisations%20-%20Nicole%20Fergrson.pdf) |
 | 18/03 | Mitigations | [PDF](./resources/07-mitigations.pdf) | (1) [Canaries](https://lettieri.iet.unipi.it/hacking/canaries.pdf) (2) [ASLR Design](https://pax.grsecurity.net/docs/aslr.txt) |
+| 19/03 | Guest Lectures on Program Analysis | [Pivot](./resources/Pivot.pdf) [RePort](./resources/RePort.pdf) | [Pivot](https://pergamos.lib.uoa.gr/item/uoadl:5298963) [RePort](https://pergamos.lib.uoa.gr/item/uoadl:5298750) |
 
 
 * [Past Years](https://ys13.chatzi.org/)
