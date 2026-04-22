@@ -58,6 +58,7 @@
 | Bonus | Due Date |
 | --- | --- |
 | [Bonus 0](https://classroom.github.com/a/pD9BijcI) | March 18,23:59 |
+| [Bonus 1](https://classroom.github.com/a/R0HiV8Xb) | May 20,23:59 |
 
 ## Grading
 
