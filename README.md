@@ -41,6 +41,7 @@
 | 01/04 | Control-Flow Integrity | [PDF](./resources/10-control-flow-integrity.pdf) | [Control-Flow Integrity](https://www.cs.columbia.edu/~suman/secure_sw_devel/p340-abadi.pdf) |
 | 02/04 | Access Control | [PDF](./resources/11-access-control.pdf) | (1) [The Protection of Information in Computer Systems](https://www.cl.cam.ac.uk/teaching/1011/R01/75-protection.pdf) (2) [Setuid Demystified](https://people.eecs.berkeley.edu/~daw/papers/setuid-usenix02.pdf) |
 | 22/04 | Intro to Cryptography | [PDF](./resources/12-intro-to-cryptography.pdf) | [Handbook of Applied Cryptography (1)](https://cacr.uwaterloo.ca/hac/about/chap1.pdf) |
+| 23/04 | Randomness | [PDF](./resources/13-randomness.pdf) | [Boneh and Shoup (2, 3, B)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 
 
 * [Past Years](https://ys13.chatzi.org/)
