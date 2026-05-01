@@ -43,6 +43,7 @@
 | 22/04 | Intro to Cryptography | [PDF](./resources/12-intro-to-cryptography.pdf) | [Handbook of Applied Cryptography (1)](https://cacr.uwaterloo.ca/hac/about/chap1.pdf) |
 | 23/04 | Randomness | [PDF](./resources/13-randomness.pdf) | [Boneh and Shoup (2, 3, B)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 | 29/04 | Pseudorandom Functions | [PDF](./resources/14-pseudorandom-functions.pdf) | [Boneh and Shoup (2.2, 3)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+| 30/04 | Encryption Modes | [PDF](./resources/15-encryption-modes.pdf) | (1) [Boneh and Shoup (4, 5)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) (2) [Handbook of Applied Cryptography (8)](https://cacr.uwaterloo.ca/hac/about/chap7.pdf) |
 
 
 * [Past Years](https://ys13.chatzi.org/)
