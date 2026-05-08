@@ -44,6 +44,12 @@
 | 23/04 | Randomness | [PDF](./resources/13-randomness.pdf) | [Boneh and Shoup (2, 3, B)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 | 29/04 | Pseudorandom Functions | [PDF](./resources/14-pseudorandom-functions.pdf) | [Boneh and Shoup (2.2, 3)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
 | 30/04 | Encryption Modes | [PDF](./resources/15-encryption-modes.pdf) | (1) [Boneh and Shoup (4, 5)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) (2) [Handbook of Applied Cryptography (8)](https://cacr.uwaterloo.ca/hac/about/chap7.pdf) |
+| 06/05 | Integrity | [PDF](./resources/16-integrity.pdf) | (1) [Boneh and Shoup (6)](https://crypto.stanford.edu/~dabo
+/cryptobook/BonehShoup_0_6.pdf) (2) [Hash Functions Basics](https://web.cs.ucdavis.edu/~rogaway/papers/relates.pdf) |
+| 07/05 | Hash Functions | [PDF](./resources/17-hash-functions.pdf) | [Boneh and Shoup (8)](https://crypto.stanford.edu
+/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+| 08/05 | Authenticated Encryption and Asymmetric Cryptography | [PDF](./resources/17-authenc-and-asymmetric-crypto.pdf) | [Boneh and Shoup (9-12)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+
 
 
 * [Past Years](https://ys13.chatzi.org/)
