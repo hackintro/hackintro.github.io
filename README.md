@@ -49,6 +49,7 @@
 | 07/05 | Hash Functions | [PDF](./resources/17-hash-functions.pdf) | [Boneh and Shoup (8)](https://crypto.stanford.edu
 /~dabo/cryptobook/BonehShoup_0_6.pdf) |
 | 08/05 | Authenticated Encryption and Asymmetric Cryptography | [PDF](./resources/17-authenc-and-asymmetric-crypto.pdf) | [Boneh and Shoup (9-12)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf) |
+| 15/05 & 20/05 | Web Security | [PDF](./resources/19-20-web-security.pdf) | [PicoCTF Training](https://picoctf.org/index.html#picogym) [React XSS](https://pragmaticwebsecurity.com/files/cheatsheets/reactxss.pdf)  |
 
 
 
